@@ -1,3 +1,13 @@
+<div align="center">
+
+[![CI](https://github.com/withastro/astro/actions/workflows/ci.yml/badge.svg)](https://github.com/JAlcocerT/slides-template/blob/main/.github/workflows/deploy.yml)
+[![RevealJS npm version](https://badge.fury.io/js/reveal.js.svg)](https://badge.fury.io/js/reveal.js)
+[![Astro npm version](https://badge.fury.io/js/astro.svg)](https://badge.fury.io/js/astro)
+
+</div>
+
+---
+
 # Reveal.js + Astro
 
 Minimalist template for presentations on the web.

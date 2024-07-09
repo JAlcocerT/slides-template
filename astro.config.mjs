@@ -4,7 +4,7 @@ import { defineConfig } from "astro/config";
 const BASE_PATH = "/slides-template";
 
 export default defineConfig({
-  site: 'https://jsulpis.github.io',
+  site: 'https://jalcocert.github.io',
   base: BASE_PATH,
   vite: {
     build: {
