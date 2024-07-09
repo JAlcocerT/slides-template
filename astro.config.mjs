@@ -1,7 +1,11 @@
 import { defineConfig } from "astro/config";
 
 // https://astro.build/config
+const BASE_PATH = "/slides-template";
+
 export default defineConfig({
-	site: "https://jsulpis.github.io",
-	base: "/slides-template",
+  site: "https://jalcocert.github.io",
+  base: BASE_PATH,
 });
+
+export { BASE_PATH };
